@@ -1,7 +1,6 @@
 """
 This module contains example constants.
 """
-
 print("Hello world.")
 VAR1=1
 VAR2="three"
